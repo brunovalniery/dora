@@ -1,3 +1,35 @@
+# 🦓 Dora: Sistema de monitoramento de pacientes portadores de doenças raras
+
+---
+
+## 💻 Sobre o projeto
+
+Dora é um projeto de sistema de monitoramento epidemiológico com o objetivo de coletar e recuperar informações dos pacientes portadores de doenças raras no Brasil.
+
+O projeto foi desenvolvido como parte do processo seletivo para ingresso como pesquisador do Laboratório de Inovação em Saúde da Universidade Federal do Rio Grande do Norte (LAIS/UFRN).
+
+---
+
+## ⚙️ Funcionalidades
+
+- [x] Página inicial 
+    - [x] Dados dos pacientes cadastrados;
+    - [x] Ranking para doenças raras registradas na plataforma;
+    - [x] Mapa com a distribuição dos pacientes por unidade da federação.
+
+---
+
+## 🦸 Autor
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/8335305?s=460&u=203b39a74174bc1dbe279de61f5f9cb446447c2a&v=4" width="100px;" alt=""/>
+ <sub><b>Bruno Valniery</b></sub>
+ <br/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-brunovalniery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunovalniery/)](https://www.linkedin.com/in/brunovalniery/)
+[![Gmail Badge](https://img.shields.io/badge/-brunovalniery@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunovalniery@gmail.com)](mailto:tgmarinho@gmail.com)
+
+
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +100,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
