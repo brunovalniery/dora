@@ -19,6 +19,11 @@ O projeto foi desenvolvido como parte do processo seletivo para ingresso como pe
 
 ---
 
+## 🎨 Design
+<img src="https://lh3.googleusercontent.com/eWZmgSM7Wl-pT6stnh5hi1vpMEzzvWU8s8rnmagsdLMZJm6POcH_647D5wkj9Gpb8KnbYtaHcjhbcWv5vh4=w1366-h657-rw" alt="Interface">
+
+---
+
 ## 🦸 Autor
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/8335305?s=460&u=203b39a74174bc1dbe279de61f5f9cb446447c2a&v=4" width="100px;" alt=""/>
